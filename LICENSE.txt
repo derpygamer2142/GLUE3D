@@ -1,0 +1,50 @@
+Copyright (c) 2026 GL00B/The3DScratcher
+
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person who lawfully obtains
+a copy of this software (the "Engine") from the copyright holder, to use the
+Engine solely for the purpose of creating games or interactive projects
+("Games"), subject to the following conditions:
+
+1. Permitted Use
+   - You may use the Engine to create, develop, and export Games.
+   - Games created with the Engine may be commercial or non-commercial.
+   - You may distribute Games in compiled, packaged, or exported form.
+
+2. Prohibited Actions
+   - You may NOT modify, adapt, translate, reverse-engineer, decompile, or
+     otherwise alter the Engine or any part of its source code.
+   - You may NOT create derivative works, forks, ports, or alternative versions
+     of the Engine.
+   - You may NOT add, integrate, or merge plugins, extensions, or additional
+     systems into the Engine’s source code.
+   - You may NOT redistribute, reupload, mirror, share, sell, sublicense, or
+     otherwise distribute the Engine, in whole or in part, whether modified
+     or unmodified.
+   - You may NOT distribute copies of the Engine except where such copies are
+     inseparably included as part of an exported or compiled Game.
+
+3. Distribution Authority
+   - The copyright holder is the sole entity permitted to distribute copies
+     of the Engine itself.
+   - Any copy of the Engine not distributed directly by the copyright holder
+     is unauthorized.
+
+4. Ownership
+   - The Engine and its source code remain the exclusive property of the
+     copyright holder.
+   - This license grants a limited right to use the Engine, not ownership.
+
+5. Termination
+   - Any violation of this license automatically and immediately terminates
+     all rights granted under this license.
+
+6. Disclaimer
+   - THE ENGINE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+     FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   - IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+     OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+     ARISING FROM, OUT OF, OR IN CONNECTION WITH THE ENGINE OR THE USE OR OTHER
+     DEALINGS IN THE ENGINE.
